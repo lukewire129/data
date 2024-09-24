@@ -11,13 +11,16 @@ Inspired by [dangrover.com](http://dangrover.com/). Current theme used at [eliot
 
 
 ## Table of contents
-1. [Installation](#installation)
-2. Website sections
-    1. [Header](#header)
-    2. [Footer](#footer)
-    3. [Home page](#home-page)
-    4. [Blog page](#blog-page)
-5. [Development instructions](#development)
+- [Bay](#bay)
+  - [Table of contents](#table-of-contents)
+    - [Installation](#installation)
+    - [Header](#header)
+    - [Footer](#footer)
+    - [Home page](#home-page)
+    - [Blog page](#blog-page)
+    - [Development](#development)
+      - [Run development instance (with hot-reload)](#run-development-instance-with-hot-reload)
+      - [Build and publish the gem](#build-and-publish-the-gem)
 
 
 ### Installation
@@ -86,27 +89,21 @@ footer:
   contact:
     - type: email
       name: Email
-      value: yourmail@domain.com
-    - type: wechat
-      value: YourWeChatUsername
-      link: "#"
+      value: lukewire129@gmail.com
   follow:
-    - type: twitter
-      name: Twitter
-      link: http://twitter.com/YourTwitterUsername
-      username: "@YourTwitterUsername"
+    - type: x
+      name: X
+      link: https://x.com/lukewire129
+      username: "@luekwire129"
     - type: facebook
       name: Facebook
-      link: http://facebook.com/YourFacebookUsername
+      link: http://facebook.com/lukewire129
     - type: linkedin
       name: LinkedIn
-      link: http://linkedin.com/in/YourLinkedInUsername
+      link: https://www.linkedin.com/in/lukwire129
     - type: github
       name: GitHub
-      link: http://github.com/YourGitHubUsername
-    - type: dribbble
-      name: Dribbble
-      link: https://dribbble.com/YourDribbbleUsername
+      link: http://github.com/lukewire129
     - type: rss
       name: RSS
       link: /feed.xml
