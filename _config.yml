@@ -18,7 +18,7 @@ header:
 
 footer:
   show_powered_by: true
-   contact:
+  contact:
     - type: email
       name: Email
       value: lukewire129@gmail.com
