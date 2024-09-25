@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "lukewireBlog.Browser",
   "resources": {
-    "hash": "sha256-XgocKHr8W1gcT8K2zz/3lrLAFGB/QiVE0fehYIa1Gbo=",
+    "hash": "sha256-Wr8GvY7IjbINWUHYMSzbpCdOjBXalWJ3nXV7V7NqTs4=",
     "jsModuleNative": {
       "dotnet.native.8.0.8.5lm28680fu.js": "sha256-VqNhFUbB4IrojeRjj1D7aFDHv99Pdq59hRRjPhR5RMQ="
     },
@@ -17,8 +17,8 @@
       "icudt_no_CJK.dat": "sha256-L7sV7NEYP37/Qr2FPCePo5cJqRgTXRwGHuwF5Q+0Nfs="
     },
     "assembly": {
-      "lukewireBlog.Browser.wasm": "sha256-NJUArd4heB0KvthMCuXZ04R0kYEnUUHLWAy/i1vpwgE=",
-      "lukewireBlog.wasm": "sha256-JJMUdMpQX1Q3feuq4cYPWtXmv2w7O6hpg1IEtjb/K3k=",
+      "lukewireBlog.Browser.wasm": "sha256-cHbGjiNNVikhEltKF5zw17xmJeHva//4Ecjql+dYubc=",
+      "lukewireBlog.wasm": "sha256-ftW6d0gEH75SNjBYWTeD20/P9oy6g/VFrNOKqEqtsXk=",
       "Microsoft.AspNetCore.Components.wasm": "sha256-Qi+XYsCFGWKPIW/F7TLMMgzMM4hvUk0nJrG8T6crucY=",
       "Microsoft.AspNetCore.Components.Web.wasm": "sha256-6Ii0xui1NKvy2fCRUKlkDuawuve/InLIwkk05KvTY+0=",
       "Microsoft.AspNetCore.Components.WebAssembly.wasm": "sha256-jxT5OPvGNxCa5Ode34Vj10dSuqq5umUUvi5WqGMI6uA=",
