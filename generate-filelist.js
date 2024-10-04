@@ -28,14 +28,17 @@ fs.readdir(directoryPath, function (err, files) {
                     fileList = fileList.concat(getFilesRecursively(filePath));
                 }
             } else {
-                // 파일 정보를 추가
-                fileList.push({
-                    name: file,                          // 파일명
-                    size: stats.size,                    // 파일 크기 (bytes)
-                    path: path.relative(__dirname, filePath), // 상대 경로
-                    lastModified: stats.mtime.toISOString(),  // 마지막 수정 시간
-                    customTag: 'blog-post',              // 커스텀 속성 (필요시 변경 가능)
-                });
+                // .md 파일만 처리
+                if (path.extname(file) === '.md') {
+                    // 파일 정보를 추가
+                    fileList.push({
+                        name: file,                          // 파일명
+                        size: stats.size,                    // 파일 크기 (bytes)
+                        path: path.relative(__dirname, filePath), // 상대 경로
+                        lastModified: stats.mtime.toISOString(),  // 마지막 수정 시간
+                        customTag: 'blog-post',              // 커스텀 속성 (필요시 변경 가능)
+                    });
+                }
             }
         });
     
