@@ -27,6 +27,6 @@ jobs:
         run: |
           git config --global user.name 'GitHub Actions'
           git config --global user.email 'actions@github.com'
-          git add filelist.json
+          git add recentblogs.json
           git commit -m 'Update file list'
           git push https://x-access-token:${MY_ACCESS_TOKEN}@github.com/lukewire129/lukewire129.github.io.git HEAD:main
