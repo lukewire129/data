@@ -29,6 +29,6 @@ fs.readdir(directoryPath, function (err, files) {
     .slice(0, 10);
 
     // JSON 파일로 저장
-    fs.writeFileSync('filelist.json', JSON.stringify({ files: recentFiles }, null, 2));
+    fs.writeFileSync('recentblogs.json', JSON.stringify({ files: recentFiles }, null, 2));
     console.log('File list generated successfully.');
 });
