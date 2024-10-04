@@ -16,7 +16,10 @@ jobs:
       - name: Set up Node.js
         uses: actions/setup-node@v2
         with:
-          node-version: '16'  # Node.js 버전 설정
+          node-version: '18'  # Node.js 버전 설정
+
+      - name: Install dependencies
+        run: npm install
 
       - name: Run script to generate file list
         run: node generate-filelist.js

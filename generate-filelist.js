@@ -1,5 +1,6 @@
 const fs = require('fs');
 const path = require('path');
+const yaml = require('js-yaml');
 
 // content 폴더 경로
 const directoryPath = path.join(__dirname, '_posts');
@@ -30,13 +31,28 @@ fs.readdir(directoryPath, function (err, files) {
             } else {
                 // .md 파일만 처리
                 if (path.extname(file) === '.md') {
+                    // 파일 읽기
+                    const fileContents = fs.readFileSync(filePath, 'utf8');
+                    
+                    // YAML Front Matter 추출
+                    const meta = fileContents.match(/^---\n([\s\S]+?)\n---/);
+                    let metadata = {};
+                    if (meta && meta[1]) {
+                        try {
+                            // YAML 데이터를 파싱하여 객체로 변환
+                            metadata = yaml.load(meta[1]);
+                        } catch (e) {
+                            console.error(`YAML parsing error in file: ${filePath}`, e);
+                            // 파싱 실패해도 메타데이터 없이 진행
+                        }
+                    }
+
                     // 파일 정보를 추가
                     fileList.push({
                         name: file,                          // 파일명
-                        size: stats.size,                    // 파일 크기 (bytes)
                         path: path.relative(__dirname, filePath), // 상대 경로
-                        lastModified: stats.mtime.toISOString(),  // 마지막 수정 시간
                         customTag: 'blog-post',              // 커스텀 속성 (필요시 변경 가능)
+                        metadata: metadata                   // 메타데이터 추가 (없으면 빈 객체)
                     });
                 }
             }
@@ -53,5 +69,5 @@ fs.readdir(directoryPath, function (err, files) {
 
     // JSON 파일로 저장
     fs.writeFileSync('recentblogs.json', JSON.stringify({ files: recentFiles }, null, 2));
-    console.log('File list generated successfully.');
+    console.log('File list with metadata generated successfully.');
 });
