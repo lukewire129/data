@@ -1,3 +1,10 @@
+---
+title:  "Blazor MAUI WPF 밋업 - 24년 5월 23"
+subtitle:   "WPF에서 XAML 없이 UI 그려보기 - feat. CSharpForMarkup"
+categories: development
+tags: WPF, Markup, BMW
+date: '2024-05-24'
+---
 ![alt text](image.png)
 ## 개요
 2024년 5월 23일, 서울 특별시 종로구 중학동에 위치한 한국마이크로소프트에서 오프라인 행사가 열렸습니다. 이 자리에서 저는 "WPF에서 XAML 없이 UI 그려보기 - feat. CSharpForMarkup"이라는 주제로 발표를 진행했습니다.
