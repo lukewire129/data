@@ -41,18 +41,24 @@
       "path": "_posts/Review/20240725 BMW/README.md",
       "customTag": "blog-post",
       "metadata": {
-        "title": "Blazor MAUI WPF 밋업 - 24년 9월 29일",
+        "title": "Blazor MAUI WPF 밋업 - 24년 7월 25일",
         "subtitle": "선언형? MVU? MauiReactor? 도대체 그게 뭔데?",
         "categories": "development",
         "tags": "Maui, MauiReactor, 선언형, MVU",
-        "date": "2024-09-30"
+        "date": "2024-07-26"
       }
     },
     {
       "name": "README.md",
       "path": "_posts/Review/20240929 BMW/README.md",
       "customTag": "blog-post",
-      "metadata": {}
+      "metadata": {
+        "title": "Blazor MAUI WPF 워크샵 - 24년 9월 29일",
+        "subtitle": "공유 자전거 플랫폼 만들기 - Avalonia 키오스크",
+        "categories": "development",
+        "tags": "Avalonia",
+        "date": "2024-09-30"
+      }
     },
     {
       "name": "test.md",
