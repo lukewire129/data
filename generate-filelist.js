@@ -63,10 +63,6 @@ fs.readdir(directoryPath, function (err, files) {
     
     // 파일 목록 가져오기
     const fileList = getFilesRecursively(directoryPath);
-    const recentFiles = fileList
-    .sort((a, b) => new Date(b.lastModified) - new Date(a.lastModified))
-    .slice(0, 10);
-
     // JSON 파일로 저장
     fs.writeFileSync('recentblogs.json', JSON.stringify({ files: recentFiles }, null, 2));
     console.log('File list with metadata generated successfully.');
