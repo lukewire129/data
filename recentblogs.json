@@ -1,60 +1,52 @@
 {
   "files": [
     {
-      "name": "AvaloniaStyle.md",
-      "size": 6827,
-      "path": "_posts/기술/AvaloniaStyle.md",
-      "lastModified": "2024-10-04T04:51:54.813Z",
-      "customTag": "blog-post"
+      "name": "README.md",
+      "path": "_posts/Review/20240425 BMW/README.md",
+      "customTag": "blog-post",
+      "metadata": {}
+    },
+    {
+      "name": "README.md",
+      "path": "_posts/Review/20240523 BMW/README.md",
+      "customTag": "blog-post",
+      "metadata": {}
+    },
+    {
+      "name": "README.md",
+      "path": "_posts/Review/20240627 BMW/README.md",
+      "customTag": "blog-post",
+      "metadata": {}
+    },
+    {
+      "name": "README.md",
+      "path": "_posts/Review/20240725 BMW/README.md",
+      "customTag": "blog-post",
+      "metadata": {}
+    },
+    {
+      "name": "README.md",
+      "path": "_posts/Review/20240929 BMW/README.md",
+      "customTag": "blog-post",
+      "metadata": {}
     },
     {
       "name": "test.md",
-      "size": 7,
       "path": "_posts/test.md",
-      "lastModified": "2024-10-04T04:51:54.812Z",
-      "customTag": "blog-post"
+      "customTag": "blog-post",
+      "metadata": {}
     },
     {
       "name": "test2.md",
-      "size": 4,
       "path": "_posts/test2.md",
-      "lastModified": "2024-10-04T04:51:54.812Z",
-      "customTag": "blog-post"
+      "customTag": "blog-post",
+      "metadata": {}
     },
     {
-      "name": "README.md",
-      "size": 3299,
-      "path": "_posts/Review/20240929 BMW/README.md",
-      "lastModified": "2024-10-04T04:51:54.806Z",
-      "customTag": "blog-post"
-    },
-    {
-      "name": "README.md",
-      "size": 2698,
-      "path": "_posts/Review/20240725 BMW/README.md",
-      "lastModified": "2024-10-04T04:51:54.805Z",
-      "customTag": "blog-post"
-    },
-    {
-      "name": "README.md",
-      "size": 3400,
-      "path": "_posts/Review/20240627 BMW/README.md",
-      "lastModified": "2024-10-04T04:51:54.802Z",
-      "customTag": "blog-post"
-    },
-    {
-      "name": "README.md",
-      "size": 3009,
-      "path": "_posts/Review/20240523 BMW/README.md",
-      "lastModified": "2024-10-04T04:51:54.801Z",
-      "customTag": "blog-post"
-    },
-    {
-      "name": "README.md",
-      "size": 4084,
-      "path": "_posts/Review/20240425 BMW/README.md",
-      "lastModified": "2024-10-04T04:51:54.800Z",
-      "customTag": "blog-post"
+      "name": "AvaloniaStyle.md",
+      "path": "_posts/기술/AvaloniaStyle.md",
+      "customTag": "blog-post",
+      "metadata": {}
     }
   ]
 }
