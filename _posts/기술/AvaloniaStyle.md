@@ -1,4 +1,11 @@
 
+---
+title:  "Avalonia UI AXAML 스타일링: 깊은 디자인과 얕은 디자인의 이해"
+subtitle:   "Avalonia UI**에서 사용되는 AXAML 마크업 언어를 활용한 스타일링 방식을 소개하려고 합니다. AXAML은 XAML에서 확장된 형태로, HTML과 CSS와 매우 유사한 스타일링 방식입니다."
+categories: development
+tags: Avalonia, AXAML
+---
+
 ![alt text](<brand (1).png>)
 
 안녕하세요. 개발자 **이광석**입니다.
