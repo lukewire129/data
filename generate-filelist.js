@@ -2,7 +2,7 @@ const fs = require('fs');
 const path = require('path');
 
 // content 폴더 경로
-const directoryPath = path.join(__dirname, 'content');
+const directoryPath = path.join(__dirname, '_posts');
 
 // 파일 목록을 스캔하여 JSON 형식으로 저장하는 함수
 fs.readdir(directoryPath, function (err, files) {
