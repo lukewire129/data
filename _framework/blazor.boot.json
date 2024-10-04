@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "lukewireBlog.Browser",
   "resources": {
-    "hash": "sha256-GHTtLc6vCZxMLPcaD2YGwSqkX5U++0VMwOzYc+NN9M8=",
+    "hash": "sha256-Jo5PB+7oV9qWCwBQ8Zf2l8hZiM9FJs9JjXBPj9RENzY=",
     "jsModuleNative": {
       "dotnet.native.8.0.8.jqpdp7gaw3.js": "sha256-joP00Z/rJk24lhhCfVeZHnz4P17AncL2u8qglDvHM3Q="
     },
@@ -39,7 +39,7 @@
       "DynamicData.wasm": "sha256-HJng8avy6o61TthRtM1daTZ9yHGnx1q4sUGFnsR36GY=",
       "HarfBuzzSharp.wasm": "sha256-dSvfpmux9jsqN/aa+09PVW+aSr7nX15GNdoDAy8Rwso=",
       "lukewireBlog.Browser.wasm": "sha256-G93skOqoTo0HeIM67GffEf/KbKZS5SDejH1zaGV6BPY=",
-      "lukewireBlog.wasm": "sha256-O+EWEvBGW91lqbp6t5l2L46VbJv4c8KnGU5wLcNJA+Y=",
+      "lukewireBlog.wasm": "sha256-Ht4ofSY1ruU8zwrHbcrwS1Op2IlOf4/RUqS5EDkeb4A=",
       "Markdig.SyntaxHighlighting.wasm": "sha256-kC47nz4lY2hVSbERvsdmCOzt1xNQJozNdGeBtfAteXs=",
       "Markdig.wasm": "sha256-Jv9S5coLP28fMUd+sd72uOfd5e3pWx+IFMRNtR/lykc=",
       "MicroCom.Runtime.wasm": "sha256-dI22KS20yc+ziyg4tSUpmSjG0ebPXDL5QTSZf+ehjwI=",
