@@ -1,0 +1,25 @@
+{
+  "files": [
+    {
+      "name": "about",
+      "size": 4096,
+      "path": "_posts/about",
+      "lastModified": "2024-10-04T03:12:41.620Z",
+      "customTag": "blog-post"
+    },
+    {
+      "name": "test.md",
+      "size": 7,
+      "path": "_posts/test.md",
+      "lastModified": "2024-10-04T03:12:41.620Z",
+      "customTag": "blog-post"
+    },
+    {
+      "name": "test2.md",
+      "size": 4,
+      "path": "_posts/test2.md",
+      "lastModified": "2024-10-04T03:12:41.620Z",
+      "customTag": "blog-post"
+    }
+  ]
+}
