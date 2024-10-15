@@ -3,6 +3,9 @@
 public class abc
 {
     public string abc {get; set;}
+    public string abc {get; set;}
+    public string abc {get; set;}
+    public string abc {get; set;}
 }
 ```
 
