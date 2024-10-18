@@ -6,7 +6,7 @@ tags: Avalonia, AXAML
 date: '2024-09-11'
 ---
 
-![alt text](<brand (1).png>)
+![alt text](brand.png)
 
 안녕하세요. 개발자 **이광석**입니다.
 
