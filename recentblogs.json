@@ -73,8 +73,8 @@
       "metadata": {}
     },
     {
-      "name": "AvaloniaStyle.md",
-      "path": "_posts/기술/AvaloniaStyle.md",
+      "name": "README.md",
+      "path": "_posts/기술/README.md",
       "customTag": "blog-post",
       "metadata": {
         "title": "Avalonia UI AXAML 스타일링: 깊은 디자인과 얕은 디자인의 이해",
