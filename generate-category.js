@@ -79,11 +79,17 @@ fs.readdir(directoryPath, function (err, files) {
       });
     }
   });
-
+  const transformedTags = Object.keys(categorizedFiles).map(tag => {
+    return {
+        tagname: category,
+        blogs: categorizedFiles[tag]
+    };
+});
+console.log(transformedTags);
   // JSON 파일로 저장
   fs.writeFileSync(
     "categorizedblogs.json",
-    JSON.stringify(categorizedFiles, null, 2)
+    JSON.stringify(transformedTags, null, 2)
   );
   console.log("Categorized file list with metadata generated successfully.");
 });
