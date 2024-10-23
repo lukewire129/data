@@ -80,8 +80,13 @@ fs.readdir(directoryPath, function (err, files) {
             });
         }
     });
-
+    const transformedTags = Object.keys(tagsFiles).map(tag => {
+        return {
+            tagname: tag,
+            blogs: tagsFiles[tag]
+        };
+    });
     // JSON 파일로 저장
-    fs.writeFileSync('tagBlogs.json', JSON.stringify(tagsFiles, null, 2));
+    fs.writeFileSync('tagBlogs.json', JSON.stringify(transformedTags, null, 2));
     console.log('tagBlogs file list with metadata generated successfully.');
 });
