@@ -86,6 +86,7 @@ fs.readdir(directoryPath, function (err, files) {
             blogs: tagsFiles[tag]
         };
     });
+    console.log(transformedTags);
     // JSON 파일로 저장
     fs.writeFileSync('tagBlogs.json', JSON.stringify(transformedTags, null, 2));
     console.log('tagBlogs file list with metadata generated successfully.');
