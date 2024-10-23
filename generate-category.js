@@ -46,17 +46,12 @@ fs.readdir(directoryPath, function (err, files) {
                             // 파싱 실패해도 메타데이터 없이 진행
                         }
                     }
-
-                    console.log(metadata);
-                    // 카테고리가 있는 경우에만 추가
-                    if (metadata.categories) {
-                        fileList.push({
-                            name: file,                          // 파일명
-                            path: path.relative(__dirname, filePath), // 상대 경로
-                            customTag: 'blog-post',              // 커스텀 속성 (필요시 변경 가능)
-                            metadata: metadata                   // 메타데이터 추가 (없으면 빈 객체)
-                        });
-                    }
+                    fileList.push({
+                        name: file,                          // 파일명
+                        path: path.relative(__dirname, filePath), // 상대 경로
+                        customTag: 'blog-post',              // 커스텀 속성 (필요시 변경 가능)
+                        metadata: metadata                   // 메타데이터 추가 (없으면 빈 객체)
+                    });
                 }
             }
         });
@@ -71,17 +66,20 @@ fs.readdir(directoryPath, function (err, files) {
     const categorizedFiles = {};
 
     fileList.forEach(file => {
+        console.log(categories);
         const categories = file.metadata.categories;
-        categories.forEach(category => {
-            if (!categorizedFiles[category]) {
-                categorizedFiles[category] = []; // 카테고리가 없으면 새로 생성
-            }
-            categorizedFiles[category].push({
-                name: file.name,
-                path: file.path,
-                metadata: file.metadata
+        if(categories){
+            categories.forEach(category => {
+                if (!categorizedFiles[category]) {
+                    categorizedFiles[category] = []; // 카테고리가 없으면 새로 생성
+                }
+                categorizedFiles[category].push({
+                    name: file.name,
+                    path: file.path,
+                    metadata: file.metadata
+                });
             });
-        });
+        }
     });
 
     // JSON 파일로 저장
