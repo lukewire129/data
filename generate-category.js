@@ -47,7 +47,7 @@ fs.readdir(directoryPath, function (err, files) {
                         }
                     }
 
-                    console.log(metadata.categories);
+                    console.log(metadata);
                     // 카테고리가 있는 경우에만 추가
                     if (metadata.categories) {
                         fileList.push({
