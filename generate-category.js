@@ -66,7 +66,7 @@ fs.readdir(directoryPath, function (err, files) {
     
     // 파일 목록 가져오기
     const fileList = getFilesRecursively(directoryPath);
-
+    console.log(fileList);
     // 카테고리별로 파일 목록을 정리
     const categorizedFiles = {};
 
