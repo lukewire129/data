@@ -66,7 +66,6 @@ fs.readdir(directoryPath, function (err, files) {
     const categorizedFiles = {};
 
     fileList.forEach(file => {
-        console.log(categories);
         const categories = file.metadata.categories;
         if(categories){
             categories.forEach(category => {
