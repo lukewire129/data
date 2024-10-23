@@ -80,6 +80,23 @@
           ],
           "date": "2024-09-30"
         }
+      },
+      {
+        "name": "README.md",
+        "path": "_posts/Review/20241022BMW/README.md",
+        "metadata": {
+          "title": "Blazor MAUI WPF 밋업 - 24년 10월 22일",
+          "subtitle": "Blazor(Blazor Hybrid 앱 빌드하기), WPF(WPF에서 WINAPI 활용, WPF프로젝트 매니징에 필요한 기술 2부), MAUI(Native library 연동)",
+          "category": "review",
+          "tags": [
+            "WPF",
+            "WINAPI",
+            "Blazr Hybrid",
+            "MAUI",
+            "Native library"
+          ],
+          "date": "2024-10-23"
+        }
       }
     ]
   },
