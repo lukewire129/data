@@ -2,7 +2,7 @@
 title:  "Blazor MAUI WPF 워크샵 - 24년 9월 29일"
 subtitle:   "공유 자전거 플랫폼 만들기 - Avalonia 키오스크"
 categories: "review"
-tags: "Avalonia", "워크샵", "BMW", "WorkShop"
+tags: Avalonia, 워크샵, BMW, WorkShop
 date: '2024-09-30'
 ---
 ![alt text](image.png)
