@@ -1,4 +1,4 @@
-name: Generate Category
+name: Generate tag
 
 on:
   push:
