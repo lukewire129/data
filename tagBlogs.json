@@ -1,0 +1,367 @@
+{
+  "Avalonia": [
+    {
+      "name": "README.md",
+      "path": "_posts/Review/20240425BMW/README.md",
+      "metadata": {
+        "title": "Blazor MAUI WPF 밋업 - 24년 4월 25",
+        "subtitle": "WPF 현대적 재해석 아발로니아",
+        "category": "review",
+        "tags": [
+          "Avalonia",
+          "BMW"
+        ],
+        "date": "2024-04-26"
+      }
+    },
+    {
+      "name": "README.md",
+      "path": "_posts/Review/20240929BMW/README.md",
+      "metadata": {
+        "title": "Blazor MAUI WPF 워크샵 - 24년 9월 29일",
+        "subtitle": "공유 자전거 플랫폼 만들기 - Avalonia 키오스크",
+        "category": "review",
+        "tags": [
+          "Avalonia",
+          "워크샵",
+          "BMW",
+          "WorkShop"
+        ],
+        "date": "2024-09-30"
+      }
+    },
+    {
+      "name": "README.md",
+      "path": "_posts/기술/README.md",
+      "metadata": {
+        "title": "Avalonia UI AXAML 스타일링(깊은 디자인과 얕은 디자인의 이해)",
+        "subtitle": "Avalonia UI**에서 사용되는 AXAML 마크업 언어를 활용한 스타일링 방식을 소개하려고 합니다. AXAML은 XAML에서 확장된 형태로, HTML과 CSS와 매우 유사한 스타일링 방식입니다.",
+        "category": "technology",
+        "tags": [
+          "Avalonia",
+          "AXAML"
+        ],
+        "date": "2024-09-11"
+      }
+    }
+  ],
+  "BMW": [
+    {
+      "name": "README.md",
+      "path": "_posts/Review/20240425BMW/README.md",
+      "metadata": {
+        "title": "Blazor MAUI WPF 밋업 - 24년 4월 25",
+        "subtitle": "WPF 현대적 재해석 아발로니아",
+        "category": "review",
+        "tags": [
+          "Avalonia",
+          "BMW"
+        ],
+        "date": "2024-04-26"
+      }
+    },
+    {
+      "name": "README.md",
+      "path": "_posts/Review/20240523BMW/README.md",
+      "metadata": {
+        "title": "Blazor MAUI WPF 밋업 - 24년 5월 23",
+        "subtitle": "WPF에서 XAML 없이 UI 그려보기 - feat. CSharpForMarkup",
+        "category": "review",
+        "tags": [
+          "WPF",
+          "Markup",
+          "BMW"
+        ],
+        "date": "2024-05-24"
+      }
+    },
+    {
+      "name": "README.md",
+      "path": "_posts/Review/20240627BMW/README.md",
+      "metadata": {
+        "title": "Blazor MAUI WPF 밋업 - 24년 6월 27일",
+        "subtitle": "윈도우서비스를 통한 나만의 알림봇 만들기",
+        "category": "review",
+        "tags": [
+          "WPF",
+          "윈도우 서비스",
+          "BMW",
+          "Windows Service"
+        ],
+        "date": "2024-06-28"
+      }
+    },
+    {
+      "name": "README.md",
+      "path": "_posts/Review/20240725BMW/README.md",
+      "metadata": {
+        "title": "Blazor MAUI WPF 밋업 - 24년 7월 25일",
+        "subtitle": "선언형? MVU? MauiReactor? 도대체 그게 뭔데?",
+        "category": "review",
+        "tags": [
+          "Maui",
+          "MauiReactor",
+          "선언형",
+          "MVU",
+          "BMW",
+          "declarative"
+        ],
+        "date": "2024-07-26"
+      }
+    },
+    {
+      "name": "README.md",
+      "path": "_posts/Review/20240929BMW/README.md",
+      "metadata": {
+        "title": "Blazor MAUI WPF 워크샵 - 24년 9월 29일",
+        "subtitle": "공유 자전거 플랫폼 만들기 - Avalonia 키오스크",
+        "category": "review",
+        "tags": [
+          "Avalonia",
+          "워크샵",
+          "BMW",
+          "WorkShop"
+        ],
+        "date": "2024-09-30"
+      }
+    }
+  ],
+  "WPF": [
+    {
+      "name": "README.md",
+      "path": "_posts/Review/20240523BMW/README.md",
+      "metadata": {
+        "title": "Blazor MAUI WPF 밋업 - 24년 5월 23",
+        "subtitle": "WPF에서 XAML 없이 UI 그려보기 - feat. CSharpForMarkup",
+        "category": "review",
+        "tags": [
+          "WPF",
+          "Markup",
+          "BMW"
+        ],
+        "date": "2024-05-24"
+      }
+    },
+    {
+      "name": "README.md",
+      "path": "_posts/Review/20240627BMW/README.md",
+      "metadata": {
+        "title": "Blazor MAUI WPF 밋업 - 24년 6월 27일",
+        "subtitle": "윈도우서비스를 통한 나만의 알림봇 만들기",
+        "category": "review",
+        "tags": [
+          "WPF",
+          "윈도우 서비스",
+          "BMW",
+          "Windows Service"
+        ],
+        "date": "2024-06-28"
+      }
+    }
+  ],
+  "Markup": [
+    {
+      "name": "README.md",
+      "path": "_posts/Review/20240523BMW/README.md",
+      "metadata": {
+        "title": "Blazor MAUI WPF 밋업 - 24년 5월 23",
+        "subtitle": "WPF에서 XAML 없이 UI 그려보기 - feat. CSharpForMarkup",
+        "category": "review",
+        "tags": [
+          "WPF",
+          "Markup",
+          "BMW"
+        ],
+        "date": "2024-05-24"
+      }
+    }
+  ],
+  "윈도우 서비스": [
+    {
+      "name": "README.md",
+      "path": "_posts/Review/20240627BMW/README.md",
+      "metadata": {
+        "title": "Blazor MAUI WPF 밋업 - 24년 6월 27일",
+        "subtitle": "윈도우서비스를 통한 나만의 알림봇 만들기",
+        "category": "review",
+        "tags": [
+          "WPF",
+          "윈도우 서비스",
+          "BMW",
+          "Windows Service"
+        ],
+        "date": "2024-06-28"
+      }
+    }
+  ],
+  "Windows Service": [
+    {
+      "name": "README.md",
+      "path": "_posts/Review/20240627BMW/README.md",
+      "metadata": {
+        "title": "Blazor MAUI WPF 밋업 - 24년 6월 27일",
+        "subtitle": "윈도우서비스를 통한 나만의 알림봇 만들기",
+        "category": "review",
+        "tags": [
+          "WPF",
+          "윈도우 서비스",
+          "BMW",
+          "Windows Service"
+        ],
+        "date": "2024-06-28"
+      }
+    }
+  ],
+  "Maui": [
+    {
+      "name": "README.md",
+      "path": "_posts/Review/20240725BMW/README.md",
+      "metadata": {
+        "title": "Blazor MAUI WPF 밋업 - 24년 7월 25일",
+        "subtitle": "선언형? MVU? MauiReactor? 도대체 그게 뭔데?",
+        "category": "review",
+        "tags": [
+          "Maui",
+          "MauiReactor",
+          "선언형",
+          "MVU",
+          "BMW",
+          "declarative"
+        ],
+        "date": "2024-07-26"
+      }
+    }
+  ],
+  "MauiReactor": [
+    {
+      "name": "README.md",
+      "path": "_posts/Review/20240725BMW/README.md",
+      "metadata": {
+        "title": "Blazor MAUI WPF 밋업 - 24년 7월 25일",
+        "subtitle": "선언형? MVU? MauiReactor? 도대체 그게 뭔데?",
+        "category": "review",
+        "tags": [
+          "Maui",
+          "MauiReactor",
+          "선언형",
+          "MVU",
+          "BMW",
+          "declarative"
+        ],
+        "date": "2024-07-26"
+      }
+    }
+  ],
+  "선언형": [
+    {
+      "name": "README.md",
+      "path": "_posts/Review/20240725BMW/README.md",
+      "metadata": {
+        "title": "Blazor MAUI WPF 밋업 - 24년 7월 25일",
+        "subtitle": "선언형? MVU? MauiReactor? 도대체 그게 뭔데?",
+        "category": "review",
+        "tags": [
+          "Maui",
+          "MauiReactor",
+          "선언형",
+          "MVU",
+          "BMW",
+          "declarative"
+        ],
+        "date": "2024-07-26"
+      }
+    }
+  ],
+  "MVU": [
+    {
+      "name": "README.md",
+      "path": "_posts/Review/20240725BMW/README.md",
+      "metadata": {
+        "title": "Blazor MAUI WPF 밋업 - 24년 7월 25일",
+        "subtitle": "선언형? MVU? MauiReactor? 도대체 그게 뭔데?",
+        "category": "review",
+        "tags": [
+          "Maui",
+          "MauiReactor",
+          "선언형",
+          "MVU",
+          "BMW",
+          "declarative"
+        ],
+        "date": "2024-07-26"
+      }
+    }
+  ],
+  "declarative": [
+    {
+      "name": "README.md",
+      "path": "_posts/Review/20240725BMW/README.md",
+      "metadata": {
+        "title": "Blazor MAUI WPF 밋업 - 24년 7월 25일",
+        "subtitle": "선언형? MVU? MauiReactor? 도대체 그게 뭔데?",
+        "category": "review",
+        "tags": [
+          "Maui",
+          "MauiReactor",
+          "선언형",
+          "MVU",
+          "BMW",
+          "declarative"
+        ],
+        "date": "2024-07-26"
+      }
+    }
+  ],
+  "워크샵": [
+    {
+      "name": "README.md",
+      "path": "_posts/Review/20240929BMW/README.md",
+      "metadata": {
+        "title": "Blazor MAUI WPF 워크샵 - 24년 9월 29일",
+        "subtitle": "공유 자전거 플랫폼 만들기 - Avalonia 키오스크",
+        "category": "review",
+        "tags": [
+          "Avalonia",
+          "워크샵",
+          "BMW",
+          "WorkShop"
+        ],
+        "date": "2024-09-30"
+      }
+    }
+  ],
+  "WorkShop": [
+    {
+      "name": "README.md",
+      "path": "_posts/Review/20240929BMW/README.md",
+      "metadata": {
+        "title": "Blazor MAUI WPF 워크샵 - 24년 9월 29일",
+        "subtitle": "공유 자전거 플랫폼 만들기 - Avalonia 키오스크",
+        "category": "review",
+        "tags": [
+          "Avalonia",
+          "워크샵",
+          "BMW",
+          "WorkShop"
+        ],
+        "date": "2024-09-30"
+      }
+    }
+  ],
+  "AXAML": [
+    {
+      "name": "README.md",
+      "path": "_posts/기술/README.md",
+      "metadata": {
+        "title": "Avalonia UI AXAML 스타일링(깊은 디자인과 얕은 디자인의 이해)",
+        "subtitle": "Avalonia UI**에서 사용되는 AXAML 마크업 언어를 활용한 스타일링 방식을 소개하려고 합니다. AXAML은 XAML에서 확장된 형태로, HTML과 CSS와 매우 유사한 스타일링 방식입니다.",
+        "category": "technology",
+        "tags": [
+          "Avalonia",
+          "AXAML"
+        ],
+        "date": "2024-09-11"
+      }
+    }
+  ]
+}
