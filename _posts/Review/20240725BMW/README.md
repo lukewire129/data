@@ -2,7 +2,7 @@
 title:  "Blazor MAUI WPF 밋업 - 24년 7월 25일"
 subtitle:   "선언형? MVU? MauiReactor? 도대체 그게 뭔데?"
 categories: "review"
-tags: Maui, MauiReactor, 선언형, MVU, BMW, declarative
+tags: ["Maui", "MauiReactor", "선언형", "MVU", "BMW", "declarative"]
 date: '2024-07-26'
 ---
 ![alt text](image.png)

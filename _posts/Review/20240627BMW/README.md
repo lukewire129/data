@@ -2,7 +2,7 @@
 title:  "Blazor MAUI WPF 밋업 - 24년 6월 27일"
 subtitle:   "윈도우서비스를 통한 나만의 알림봇 만들기"
 categories: "review"
-tags: WPF, 윈도우 서비스, BMW, Windows Service
+tags: ["WPF", "윈도우 서비스", "BMW", "Windows Service"]
 date: '2024-06-28'
 ---
 ![alt text](image.png)
