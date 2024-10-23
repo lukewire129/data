@@ -79,10 +79,10 @@ fs.readdir(directoryPath, function (err, files) {
       });
     }
   });
-  const transformedTags = Object.keys(categorizedFiles).map(tag => {
+  const transformedTags = Object.keys(categorizedFiles).map(category => {
     return {
         tagname: category,
-        blogs: categorizedFiles[tag]
+        blogs: categorizedFiles[category]
     };
 });
 console.log(transformedTags);
