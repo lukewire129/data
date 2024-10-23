@@ -1,7 +1,7 @@
 ---
-title:  "Blazor MAUI WPF 밋업 - 24년 5월 23"
-subtitle:   "WPF에서 XAML 없이 UI 그려보기 - feat. CSharpForMarkup"
-categories: "review"
+title: Blazor MAUI WPF 밋업 - 24년 5월 23
+subtitle: WPF에서 XAML 없이 UI 그려보기 - feat. CSharpForMarkup
+category: review
 tags: ["WPF", "Markup", "BMW"]
 date: '2024-05-24'
 ---
