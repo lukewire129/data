@@ -1,4 +1,4 @@
-name: Generate File List
+name: Generate Category
 
 on:
   push:
@@ -21,8 +21,8 @@ jobs:
       - name: Install dependencies
         run: npm install
 
-      - name: Run script to generate file list
-        run: node generate-filelist.js
+      - name: Run script to generate catagory.js
+        run: node generate-category.js
 
       - name: Commit and push changes
         env:
