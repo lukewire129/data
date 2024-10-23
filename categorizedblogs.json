@@ -1,6 +1,6 @@
 [
   {
-    "tagname": "review",
+    "categoryname": "review",
     "blogs": [
       {
         "name": "README.md",
@@ -84,7 +84,7 @@
     ]
   },
   {
-    "tagname": "technology",
+    "categoryname": "technology",
     "blogs": [
       {
         "name": "README.md",
