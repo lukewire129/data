@@ -24,6 +24,9 @@ jobs:
       - name: Run script to generate file list
         run: node generate-filelist.js
 
+      - name: Run script to generate catagory.js
+        run: node generate-category.js
+
       - name: Commit and push changes
         env:
           MY_ACCESS_TOKEN: ${{ secrets.GITHUB_TOKEN }}
