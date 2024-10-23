@@ -1,8 +1,8 @@
 ---
 title:  "Blazor MAUI WPF 밋업 - 24년 4월 25"
 subtitle:   "WPF 현대적 재해석 아발로니아"
-categories: development
-tags: Avalonia, BMW
+categories: "review"
+tags: "Avalonia", "BMW"
 date: '2024-04-26'
 ---
 ![alt text](image.png)
