@@ -1,4 +1,4 @@
-name: Generate Category
+name: Generate File List
 
 on:
   push:
@@ -21,8 +21,14 @@ jobs:
       - name: Install dependencies
         run: npm install
 
+      - name: Run script to generate file list
+        run: node generate-filelist.js
+
       - name: Run script to generate catagory.js
         run: node generate-category.js
+
+      - name: Run script to generate tag.js
+        run: node generate-tag.js
 
       - name: Commit and push changes
         env:
@@ -30,6 +36,8 @@ jobs:
         run: |
           git config --global user.name 'GitHub Actions'
           git config --global user.email 'actions@github.com'
+          git add recentblogs.json
           git add categorizedblogs.json
-          git commit -m 'Update categories file list'
+          git add tagBlogs.json
+          git commit -m 'Update file list'
           git push https://x-access-token:${MY_ACCESS_TOKEN}@github.com/lukewire129/data.git HEAD:main
