@@ -116,7 +116,7 @@
     },
     {
       "name": "README.md",
-      "path": "_posts/기술/README.md",
+      "path": "_posts/기술/AvaloniaStyle/README.md",
       "customTag": "blog-post",
       "metadata": {
         "title": "Avalonia UI AXAML 스타일링(깊은 디자인과 얕은 디자인의 이해)",
@@ -128,6 +128,12 @@
         ],
         "date": "2024-09-11"
       }
+    },
+    {
+      "name": "README_NETFRAMEWORK.md",
+      "path": "_posts/기술/난독화/README_NETFRAMEWORK.md",
+      "customTag": "blog-post",
+      "metadata": {}
     }
   ]
 }
