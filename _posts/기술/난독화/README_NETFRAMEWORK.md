@@ -1,5 +1,5 @@
 ---
-title: [WPF] 응용 프레임워크 난독화 시리즈(.NET FRAMEWORK)
+title: 응용 프레임워크 난독화 시리즈(.NET FRAMEWORK)
 subtitle: 오픈 소스 난독화 프로그램을 다뤄보기 .NET FRAMEWORK
 category: technology
 tags: ["ConfuserEx", "WPF"]
