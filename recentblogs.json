@@ -133,7 +133,16 @@
       "name": "README_NETFRAMEWORK.md",
       "path": "_posts/기술/난독화/README_NETFRAMEWORK.md",
       "customTag": "blog-post",
-      "metadata": {}
+      "metadata": {
+        "title": "응용 프레임워크 난독화 시리즈(.NET FRAMEWORK)",
+        "subtitle": "오픈 소스 난독화 프로그램을 다뤄보기 .NET FRAMEWORK",
+        "category": "technology",
+        "tags": [
+          "ConfuserEx",
+          "WPF"
+        ],
+        "date": "2023-05-05"
+      }
     }
   ]
 }
