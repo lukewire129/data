@@ -1,11 +1,12 @@
 ---
-title: [WPF] 응용 프레임워크 난독화 시리즈(.NET FRAMEWORK)
+title: 응용 프레임워크 난독화하기 1탄
 subtitle: 오픈 소스 난독화 프로그램을 다뤄보기 .NET FRAMEWORK
 category: technology
 tags: ["ConfuserEx", "WPF"]
 date: '2023-05-05'
 ---
-
+# 응용 프레임워크 난독화하기 1탄
+### 오픈 소스 난독화 프로그램을 다뤄보기 .NET FRAMEWORK
 안녕하세요 개발자 이광석입니다.
 
 ConfuserEx를 통해서 WPF 프로그램 난독화 하는 방법을 공유해볼까 합니다.

@@ -5,10 +5,11 @@ category: review
 tags: ["Avalonia", "워크샵", "BMW", "WorkShop"]
 date: '2024-09-30'
 ---
-![alt text](image.png)
+# Blazor MAUI WPF 워크샵 - 24년 9월 29일 
+### 공유 자전거 플랫폼 만들기 - Avalonia 키오스크
 ## 개요
 2024년 9월 29일, 서울 서대문구 연희로 2길 62 (한빛빌딩) B동 1층 리더스 홀에서 한빛미디어 주관으로 오프라인 행사가 열렸습니다. 이 자리에서 저는 아발로니아(Avalonia) 섹션을 맡아 워크샵 형태로 발표를 진행했습니다.
-
+![alt text](image.png)
 ## 발표
 
 **주제** : 공유 자전거 플랫폼 만들기

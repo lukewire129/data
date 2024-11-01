@@ -5,7 +5,7 @@
       "path": "_posts\\Review\\20240425BMW\\README.md",
       "customTag": "blog-post",
       "metadata": {
-        "title": "Blazor MAUI WPF 밋업 - 24년 4월 25",
+        "title": "Blazor MAUI WPF 밋업 - 24년 4월 25일",
         "subtitle": "WPF 현대적 재해석 아발로니아",
         "category": "review",
         "tags": [
@@ -20,7 +20,7 @@
       "path": "_posts\\Review\\20240523BMW\\README.md",
       "customTag": "blog-post",
       "metadata": {
-        "title": "Blazor MAUI WPF 밋업 - 24년 5월 23",
+        "title": "Blazor MAUI WPF 밋업 - 24년 5월 23일",
         "subtitle": "WPF에서 XAML 없이 UI 그려보기 - feat. CSharpForMarkup",
         "category": "review",
         "tags": [
@@ -133,7 +133,16 @@
       "name": "README_NETFRAMEWORK.md",
       "path": "_posts\\기술\\난독화\\README_NETFRAMEWORK.md",
       "customTag": "blog-post",
-      "metadata": {}
+      "metadata": {
+        "title": "응용 프레임워크 난독화하기 1탄",
+        "subtitle": "오픈 소스 난독화 프로그램을 다뤄보기 .NET FRAMEWORK",
+        "category": "technology",
+        "tags": [
+          "ConfuserEx",
+          "WPF"
+        ],
+        "date": "2023-05-05"
+      }
     }
   ]
 }

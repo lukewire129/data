@@ -5,15 +5,15 @@ category: technology
 tags: ["Avalonia", "AXAML"]
 date: '2024-09-11'
 ---
-
-![alt text](brand.png)
+# Avalonia UI AXAML 스타일링
+### 깊은 디자인과 얕은 디자인의 이해
 
 안녕하세요. 개발자 **이광석**입니다.
 
 이번 글에서는 **Avalonia UI**에서 사용되는 **AXAML ** 마크업 언어를 활용한 스타일링 방식을 소개하려고 합니다. AXAML은 **XAML**에서 확장된 형태로, **HTML**과 **CSS**와 매우 유사한 스타일링 방식입니다.
 
 Avalonia에서 스타일링을 할 때는 **Resources 태그**와 **Styles 태그**가 존재합니다. `Resources` 태그에서는 테마나 색상 같은 공통 자원을 선언하고, `Styles` 태그에서는 컨트롤의 스타일을 지정합니다. 기본적인 스타일링 방식은 다음과 같습니다:
-```AXAML
+```xml
 <Setter Property="속성" value="값"/>
 ```
 
@@ -34,7 +34,7 @@ Avalonia에서 스타일링을 할 때는 **Resources 태그**와 **Styles 태�
 **Template** 속성은 기존 컨트롤의 본래 모습을 초기화하고, 새롭게 그릴 수 있는 강력한 스타일링 방법입니다. 이 방식은 WPF의 **ControlTemplate**과 **Style**이 합쳐진 개념이며, 테마로 선언될 수 있습니다. Avalonia에서는 `Resources` 태그 안에 선언하는 것이 특징입니다.
 
 **코드 예시:**
-```AXAML
+```xml
  <Application.Resources>
     <ControlTheme x:Key="EllipseButton" TargetType="Button">
       <Setter Property="Background" Value="Blue"/>
@@ -67,7 +67,7 @@ Avalonia에서 스타일링을 할 때는 **Resources 태그**와 **Styles 태�
 테마 스타일링과 다르게, **Style**은 키가 존재하지 않고 `Styles` 태그 안에 선언됩니다. 컨트롤에 대해 전역적으로 스타일을 적용할 때 유용합니다.
 
 **코드 예시:**
-```AXAML
+```xml
 <Application.Styles>
     <Style Selector="Button#EllipseButton">
       <Setter Property="Background" Value="Blue"/>
@@ -93,7 +93,7 @@ Avalonia에서 스타일링을 할 때는 **Resources 태그**와 **Styles 태�
   <Button x:Name="EllipseButton"/>
 ```
 또는 `Classes` 속성을 사용하여 스타일링할 수도 있습니다.
-```AXAML
+```xml
  <Application.Styles>
     <Style Selector="Button.EllipseButton">
       <Setter Property="Background" Value="Blue"/>
@@ -125,7 +125,7 @@ Avalonia에서 스타일링을 할 때는 **Resources 태그**와 **Styles 태�
 `Classes`를 사용한 스타일링은 **HTML**의 **class**를 연상시키며, 컨트롤의 여러 속성을 재사용할 수 있습니다. Avalonia에서는 `Styles` 태그 안에 선언되며, CSS와 유사하게 여러 클래스를 적용하여 컨트롤의 스타일을 세밀하게 조정할 수 있습니다.
 
 **코드 예시:**
-```AXAML
+```xml
 <Style Selector="TextBlock.h1">
  	<Setter Property="FontSize" Value="24"/>
 </Style>
@@ -146,7 +146,7 @@ Avalonia에서는 **컨트롤 선택자를 이용한 스타일링**이 가능합
 
 **코드 예시:**
 
-```AXAML
+```xml
 <Style Selector="TextBlock#h1">
  	<Setter Property="FontSize" Value="24"/>
 </Style>
@@ -157,7 +157,6 @@ Avalonia에서는 **컨트롤 선택자를 이용한 스타일링**이 가능합
 ```
 **설명**: `#h1` 선택자는 `x:Name`이 `h1`인 컨트롤에만 스타일을 적용합니다. WPF에서는 지원되지 않는 방식이지만, Avalonia에서는 가능하여 스타일링의 유연성이 더 높습니다.
 
----
 <br/>
 
 ## 결론
