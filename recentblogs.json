@@ -2,7 +2,7 @@
   "files": [
     {
       "name": "README.md",
-      "path": "_posts/Review/20240425BMW/README.md",
+      "path": "_posts\\Review\\20240425BMW\\README.md",
       "customTag": "blog-post",
       "metadata": {
         "title": "Blazor MAUI WPF 밋업 - 24년 4월 25",
@@ -17,7 +17,7 @@
     },
     {
       "name": "README.md",
-      "path": "_posts/Review/20240523BMW/README.md",
+      "path": "_posts\\Review\\20240523BMW\\README.md",
       "customTag": "blog-post",
       "metadata": {
         "title": "Blazor MAUI WPF 밋업 - 24년 5월 23",
@@ -33,7 +33,7 @@
     },
     {
       "name": "README.md",
-      "path": "_posts/Review/20240627BMW/README.md",
+      "path": "_posts\\Review\\20240627BMW\\README.md",
       "customTag": "blog-post",
       "metadata": {
         "title": "Blazor MAUI WPF 밋업 - 24년 6월 27일",
@@ -50,7 +50,7 @@
     },
     {
       "name": "README.md",
-      "path": "_posts/Review/20240725BMW/README.md",
+      "path": "_posts\\Review\\20240725BMW\\README.md",
       "customTag": "blog-post",
       "metadata": {
         "title": "Blazor MAUI WPF 밋업 - 24년 7월 25일",
@@ -69,7 +69,7 @@
     },
     {
       "name": "README.md",
-      "path": "_posts/Review/20240929BMW/README.md",
+      "path": "_posts\\Review\\20240929BMW\\README.md",
       "customTag": "blog-post",
       "metadata": {
         "title": "Blazor MAUI WPF 워크샵 - 24년 9월 29일",
@@ -86,7 +86,7 @@
     },
     {
       "name": "README.md",
-      "path": "_posts/Review/20241022BMW/README.md",
+      "path": "_posts\\Review\\20241022BMW\\README.md",
       "customTag": "blog-post",
       "metadata": {
         "title": "Blazor MAUI WPF 밋업 - 24년 10월 22일",
@@ -104,19 +104,19 @@
     },
     {
       "name": "test.md",
-      "path": "_posts/test.md",
+      "path": "_posts\\test.md",
       "customTag": "blog-post",
       "metadata": {}
     },
     {
       "name": "test2.md",
-      "path": "_posts/test2.md",
+      "path": "_posts\\test2.md",
       "customTag": "blog-post",
       "metadata": {}
     },
     {
       "name": "README.md",
-      "path": "_posts/기술/AvaloniaStyle/README.md",
+      "path": "_posts\\기술\\AvaloniaStyle\\README.md",
       "customTag": "blog-post",
       "metadata": {
         "title": "Avalonia UI AXAML 스타일링(깊은 디자인과 얕은 디자인의 이해)",
@@ -131,7 +131,7 @@
     },
     {
       "name": "README_NETFRAMEWORK.md",
-      "path": "_posts/기술/난독화/README_NETFRAMEWORK.md",
+      "path": "_posts\\기술\\난독화\\README_NETFRAMEWORK.md",
       "customTag": "blog-post",
       "metadata": {}
     }
