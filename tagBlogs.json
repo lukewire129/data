@@ -318,6 +318,22 @@
           ],
           "date": "2024-07-26"
         }
+      },
+      {
+        "name": "REAMD.md",
+        "path": "_posts/tech/MauiReactor_1/REAMD.md",
+        "metadata": {
+          "title": "MauiReactor 시작하기",
+          "subtitle": "MauiReactor의 간단 소개",
+          "category": "technology",
+          "tags": [
+            "MVU",
+            "maui",
+            "MauiReactor",
+            "크로스플랫폼"
+          ],
+          "date": "2023-05-10"
+        }
       }
     ]
   },
@@ -363,6 +379,22 @@
             "declarative"
           ],
           "date": "2024-07-26"
+        }
+      },
+      {
+        "name": "REAMD.md",
+        "path": "_posts/tech/MauiReactor_1/REAMD.md",
+        "metadata": {
+          "title": "MauiReactor 시작하기",
+          "subtitle": "MauiReactor의 간단 소개",
+          "category": "technology",
+          "tags": [
+            "MVU",
+            "maui",
+            "MauiReactor",
+            "크로스플랫폼"
+          ],
+          "date": "2023-05-10"
         }
       }
     ]
@@ -535,6 +567,48 @@
             "AXAML"
           ],
           "date": "2024-09-11"
+        }
+      }
+    ]
+  },
+  {
+    "tagname": "maui",
+    "blogs": [
+      {
+        "name": "REAMD.md",
+        "path": "_posts/tech/MauiReactor_1/REAMD.md",
+        "metadata": {
+          "title": "MauiReactor 시작하기",
+          "subtitle": "MauiReactor의 간단 소개",
+          "category": "technology",
+          "tags": [
+            "MVU",
+            "maui",
+            "MauiReactor",
+            "크로스플랫폼"
+          ],
+          "date": "2023-05-10"
+        }
+      }
+    ]
+  },
+  {
+    "tagname": "크로스플랫폼",
+    "blogs": [
+      {
+        "name": "REAMD.md",
+        "path": "_posts/tech/MauiReactor_1/REAMD.md",
+        "metadata": {
+          "title": "MauiReactor 시작하기",
+          "subtitle": "MauiReactor의 간단 소개",
+          "category": "technology",
+          "tags": [
+            "MVU",
+            "maui",
+            "MauiReactor",
+            "크로스플랫폼"
+          ],
+          "date": "2023-05-10"
         }
       }
     ]
