@@ -22,7 +22,7 @@ date: '2023-05-06'
 2. 아래 내용을 복사하지말고 참고만 해주세요.
    해당 파일 경로들은 제 PC에 설치되어있는 .net Core library 경로들입니다.
    그렇기 때문에 시도하시려는 분들이 해당 경로와 비슷하게 수정하셔야 합니다.
-   ```
+   ```xml
    <project outputDir="D:\Project\6.example_github\obfuscationTest\ObfucationCoreTest\bin\Debug\net7.0-windows" baseDir="D:\Project\6.example_github\obfuscationTest\ObfucationCoreTest\bin\Debug\net7.0-windows" xmlns="http://confuser.codeplex.com">
         <module path="ObfucationCoreTest.dll" />
         <probePath>C:\Program Files (x86)\dotnet\packs\Microsoft.NETCore.App.Ref\3.1.0\ref\netcoreapp3.1</probePath>
