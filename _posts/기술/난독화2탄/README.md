@@ -1,11 +1,12 @@
 ---
-title: [WPF] 응용 프레임워크 난독화 시리즈(.NET CORE)
+title: 응용 프레임워크 난독화하기 2탄
 subtitle: 오픈 소스 난독화 프로그램을 다뤄보기 .NET CORE
 category: technology
 tags: ["ConfuserEx", "WPF"]
 date: '2023-05-05'
 ---
-
+# 응용 프레임워크 난독화하기 2탄
+### 오픈 소스 난독화 프로그램을 다뤄보기 .NET CORE
 안녕하세요 개발자 이광석입니다.
 
 .NET CORE에서의 난독화는 이전 .NET FRAMEWORK 편과 동일하게 한다면 동작되지 않을 겁니다.
