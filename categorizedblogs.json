@@ -118,11 +118,27 @@
         }
       },
       {
-        "name": "REAMD.md",
-        "path": "_posts/tech/MauiReactor_1/REAMD.md",
+        "name": "README.md",
+        "path": "_posts/tech/MauiReacotr_2/README.md",
+        "metadata": {
+          "title": "MauiReactor 간단하게 알아보기",
+          "subtitle": "MauiReactor의 진짜 찐 시작",
+          "category": "technology",
+          "tags": [
+            "MVU",
+            "maui",
+            "MauiReactor",
+            "크로스플랫폼"
+          ],
+          "date": "2023-05-12"
+        }
+      },
+      {
+        "name": "READMD.md",
+        "path": "_posts/tech/MauiReactor_1/READMD.md",
         "metadata": {
           "title": "MauiReactor 시작하기",
-          "subtitle": "MauiReactor의 간단 소개",
+          "subtitle": "MauiReactor의 시작하려는 이유",
           "category": "technology",
           "tags": [
             "MVU",
