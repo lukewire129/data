@@ -320,8 +320,24 @@
         }
       },
       {
+        "name": "READMD.md",
+        "path": "_posts/tech/MauiReactor_1/READMD.md",
+        "metadata": {
+          "title": "MauiReactor 시작하기",
+          "subtitle": "MauiReactor의 시작하려는 이유",
+          "category": "technology",
+          "tags": [
+            "MVU",
+            "maui",
+            "MauiReactor",
+            "크로스플랫폼"
+          ],
+          "date": "2023-05-10"
+        }
+      },
+      {
         "name": "README.md",
-        "path": "_posts/tech/MauiReacotr_2/README.md",
+        "path": "_posts/tech/MauiReactor_2/README.md",
         "metadata": {
           "title": "MauiReactor 간단하게 알아보기",
           "subtitle": "MauiReactor의 진짜 찐 시작",
@@ -336,11 +352,11 @@
         }
       },
       {
-        "name": "READMD.md",
-        "path": "_posts/tech/MauiReactor_1/READMD.md",
+        "name": "README.md",
+        "path": "_posts/tech/MauiReactor_StateComponents/README.md",
         "metadata": {
-          "title": "MauiReactor 시작하기",
-          "subtitle": "MauiReactor의 시작하려는 이유",
+          "title": "MauiReactor의 Stateless과 Statefull",
+          "subtitle": "StaelessComponent와 StatefullComponent에 대해 알아보기",
           "category": "technology",
           "tags": [
             "MVU",
@@ -348,7 +364,7 @@
             "MauiReactor",
             "크로스플랫폼"
           ],
-          "date": "2023-05-10"
+          "date": "2023-05-13"
         }
       }
     ]
@@ -398,8 +414,24 @@
         }
       },
       {
+        "name": "READMD.md",
+        "path": "_posts/tech/MauiReactor_1/READMD.md",
+        "metadata": {
+          "title": "MauiReactor 시작하기",
+          "subtitle": "MauiReactor의 시작하려는 이유",
+          "category": "technology",
+          "tags": [
+            "MVU",
+            "maui",
+            "MauiReactor",
+            "크로스플랫폼"
+          ],
+          "date": "2023-05-10"
+        }
+      },
+      {
         "name": "README.md",
-        "path": "_posts/tech/MauiReacotr_2/README.md",
+        "path": "_posts/tech/MauiReactor_2/README.md",
         "metadata": {
           "title": "MauiReactor 간단하게 알아보기",
           "subtitle": "MauiReactor의 진짜 찐 시작",
@@ -414,11 +446,11 @@
         }
       },
       {
-        "name": "READMD.md",
-        "path": "_posts/tech/MauiReactor_1/READMD.md",
+        "name": "README.md",
+        "path": "_posts/tech/MauiReactor_StateComponents/README.md",
         "metadata": {
-          "title": "MauiReactor 시작하기",
-          "subtitle": "MauiReactor의 시작하려는 이유",
+          "title": "MauiReactor의 Stateless과 Statefull",
+          "subtitle": "StaelessComponent와 StatefullComponent에 대해 알아보기",
           "category": "technology",
           "tags": [
             "MVU",
@@ -426,7 +458,7 @@
             "MauiReactor",
             "크로스플랫폼"
           ],
-          "date": "2023-05-10"
+          "date": "2023-05-13"
         }
       }
     ]
@@ -607,8 +639,24 @@
     "tagname": "maui",
     "blogs": [
       {
+        "name": "READMD.md",
+        "path": "_posts/tech/MauiReactor_1/READMD.md",
+        "metadata": {
+          "title": "MauiReactor 시작하기",
+          "subtitle": "MauiReactor의 시작하려는 이유",
+          "category": "technology",
+          "tags": [
+            "MVU",
+            "maui",
+            "MauiReactor",
+            "크로스플랫폼"
+          ],
+          "date": "2023-05-10"
+        }
+      },
+      {
         "name": "README.md",
-        "path": "_posts/tech/MauiReacotr_2/README.md",
+        "path": "_posts/tech/MauiReactor_2/README.md",
         "metadata": {
           "title": "MauiReactor 간단하게 알아보기",
           "subtitle": "MauiReactor의 진짜 찐 시작",
@@ -623,11 +671,11 @@
         }
       },
       {
-        "name": "READMD.md",
-        "path": "_posts/tech/MauiReactor_1/READMD.md",
+        "name": "README.md",
+        "path": "_posts/tech/MauiReactor_StateComponents/README.md",
         "metadata": {
-          "title": "MauiReactor 시작하기",
-          "subtitle": "MauiReactor의 시작하려는 이유",
+          "title": "MauiReactor의 Stateless과 Statefull",
+          "subtitle": "StaelessComponent와 StatefullComponent에 대해 알아보기",
           "category": "technology",
           "tags": [
             "MVU",
@@ -635,7 +683,7 @@
             "MauiReactor",
             "크로스플랫폼"
           ],
-          "date": "2023-05-10"
+          "date": "2023-05-13"
         }
       }
     ]
@@ -644,8 +692,24 @@
     "tagname": "크로스플랫폼",
     "blogs": [
       {
+        "name": "READMD.md",
+        "path": "_posts/tech/MauiReactor_1/READMD.md",
+        "metadata": {
+          "title": "MauiReactor 시작하기",
+          "subtitle": "MauiReactor의 시작하려는 이유",
+          "category": "technology",
+          "tags": [
+            "MVU",
+            "maui",
+            "MauiReactor",
+            "크로스플랫폼"
+          ],
+          "date": "2023-05-10"
+        }
+      },
+      {
         "name": "README.md",
-        "path": "_posts/tech/MauiReacotr_2/README.md",
+        "path": "_posts/tech/MauiReactor_2/README.md",
         "metadata": {
           "title": "MauiReactor 간단하게 알아보기",
           "subtitle": "MauiReactor의 진짜 찐 시작",
@@ -660,11 +724,11 @@
         }
       },
       {
-        "name": "READMD.md",
-        "path": "_posts/tech/MauiReactor_1/READMD.md",
+        "name": "README.md",
+        "path": "_posts/tech/MauiReactor_StateComponents/README.md",
         "metadata": {
-          "title": "MauiReactor 시작하기",
-          "subtitle": "MauiReactor의 시작하려는 이유",
+          "title": "MauiReactor의 Stateless과 Statefull",
+          "subtitle": "StaelessComponent와 StatefullComponent에 대해 알아보기",
           "category": "technology",
           "tags": [
             "MVU",
@@ -672,7 +736,7 @@
             "MauiReactor",
             "크로스플랫폼"
           ],
-          "date": "2023-05-10"
+          "date": "2023-05-13"
         }
       }
     ]
