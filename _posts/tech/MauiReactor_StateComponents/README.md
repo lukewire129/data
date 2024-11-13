@@ -14,7 +14,7 @@ date: '2023-05-13'
 
 MauiReactor의 State-less Components와 Statefull Components는 Flutter 프레임워크의 StatelessWidget(SLW)와 StateFullWidget(SFW)을 차용하여 만들어진 개념이라고 보시면 됩니다.
 
-Flutter의 SLW와 SFW의 차이점에 대해서는 이 링크(https://security-nanglam.tistory.com/478)를 참고하세요.
+Flutter의 SLW와 SFW의 차이점에 대해서는 이 [링크](https://security-nanglam.tistory.com/478)를 참고하세요.
 
 ### State-less Components (정적 컴포넌트)
 
@@ -77,7 +77,7 @@ public class CounterComponent : Component<CounterState>
 이처럼 MauiReactor의 State-less Components와 Statefull Components는 Flutter에서 차용된 개념을 잘 반영하고 있어, Flutter를 경험해 본 개발자라면 빠르게 적응할 수 있을 것입니다.
 
 
-자세한 사항은 아래 링크를 통해 확
+자세한 사항은 아래 링크를 통해 확인하세요.
 
 - [State-less Components](https://adospace.gitbook.io/mauireactor/components/state-less-components)
 
