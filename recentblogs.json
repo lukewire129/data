@@ -152,6 +152,23 @@
       }
     },
     {
+      "name": "REAMD.md",
+      "path": "_posts/tech/MauiReactor_LifeCycle/REAMD.md",
+      "customTag": "blog-post",
+      "metadata": {
+        "title": "MauiReactor의 LifeCycle",
+        "subtitle": "MauiReactor의 컴포넌트 상태주기에 대해 알아보기",
+        "category": "technology",
+        "tags": [
+          "MVU",
+          "maui",
+          "MauiReactor",
+          "크로스플랫폼"
+        ],
+        "date": "2023-05-15"
+      }
+    },
+    {
       "name": "README.md",
       "path": "_posts/tech/MauiReactor_StateComponents/README.md",
       "customTag": "blog-post",
