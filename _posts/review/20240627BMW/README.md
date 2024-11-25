@@ -1,11 +1,11 @@
 ---
-title: Blazor MAUI WPF 밋업 - 24년 6월 27일
+title: Blazor MAUI WPF 밋업 발표 후기 - 24년 6월 27일
 subtitle: 윈도우서비스를 통한 나만의 알림봇 만들기
 category: review
 tags: ["WPF", "윈도우 서비스", "BMW", "Windows Service"]
 date: '2024-06-28'
 ---
-# Blazor MAUI WPF 밋업 - 24년 6월 27일 
+# Blazor MAUI WPF 밋업 발표 후기
 ### 윈도우서비스를 통한 나만의 알림봇 만들기
 ## 개요
 2024년 6월 27일, 서울 특별시 종로구 중학동에 위치한 한국마이크로소프트에서 오프라인 행사가 열렸습니다. 이 자리에서 저는 "윈도우서비스를 통한 나만의 알림봇 만들기"이라는 주제로 발표를 진행했습니다.

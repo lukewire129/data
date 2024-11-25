@@ -1,11 +1,11 @@
 ---
-title: Blazor MAUI WPF 밋업 - 24년 7월 25일
+title: Blazor MAUI WPF 밋업 발표 후기 - 24년 7월 25일
 subtitle: 선언형? MVU? MauiReactor? 도대체 그게 뭔데?
 category: review
 tags: ["Maui", "MauiReactor", "선언형", "MVU", "BMW", "declarative"]
 date: '2024-07-26'
 ---
-# Blazor MAUI WPF 밋업 - 24년 7월 25일 
+# Blazor MAUI WPF 밋업 발표 후기
 ### 선언형? MVU? MauiReactor? 도대체 그게 뭔데?
 ## 개요
 2024년 7월 25일, 서울 특별시 종로구 중학동에 위치한 한국마이크로소프트에서 오프라인 행사가 열렸습니다. 이 자리에서 저는 "선언형? MVU? MauiReactor? 도대체 그게 뭔데?"이라는 주제로 발표를 진행했습니다.

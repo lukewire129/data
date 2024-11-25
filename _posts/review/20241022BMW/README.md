@@ -1,11 +1,11 @@
 ---
-title: Blazor MAUI WPF 밋업 - 24년 10월 22일
+title: Blazor MAUI WPF 밋업 청강 후기
 subtitle: Blazor(Blazor Hybrid 앱 빌드하기), WPF(WPF에서 WINAPI 활용, WPF프로젝트 매니징에 필요한 기술 2부), MAUI(Native library 연동)
 category: review
 tags: ["WPF", "WINAPI", "Blazr Hybrid", "MAUI", "Native library"]
 date: '2024-10-23'
 ---
-# Blazor MAUI WPF 밋업 - 24년 10월 22일 
+# Blazor MAUI WPF 밋업 청강 후기 
 ### Blazor(Blazor Hybrid 앱 빌드하기), WPF(WPF에서 WINAPI 활용, WPF프로젝트 매니징에 필요한 기술 2부), MAUI(Native library 연동)
 ## 개요
 2024년 10월 22일 서울 특별시 종로구 중학동에 위치한 한국마이크로소프트에서 오프라인 행사가 열렸습니다. 청취자 입장에서 참석하였습니다.
