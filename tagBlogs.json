@@ -185,6 +185,20 @@
       },
       {
         "name": "README.md",
+        "path": "_posts/tech/delta/README.md",
+        "metadata": {
+          "title": "Delta 라이브러리 만들기 기록",
+          "subtitle": "Virtual DOM과 Diffing Algorithm",
+          "category": "technology",
+          "tags": [
+            "MVU",
+            "WPF"
+          ],
+          "date": "2024-11-28"
+        }
+      },
+      {
+        "name": "README.md",
         "path": "_posts/tech/난독화1탄/README.md",
         "metadata": {
           "title": "응용 프레임워크 난독화하기 1탄",
@@ -491,6 +505,20 @@
             "크로스플랫폼"
           ],
           "date": "2023-05-13"
+        }
+      },
+      {
+        "name": "README.md",
+        "path": "_posts/tech/delta/README.md",
+        "metadata": {
+          "title": "Delta 라이브러리 만들기 기록",
+          "subtitle": "Virtual DOM과 Diffing Algorithm",
+          "category": "technology",
+          "tags": [
+            "MVU",
+            "WPF"
+          ],
+          "date": "2024-11-28"
         }
       }
     ]
