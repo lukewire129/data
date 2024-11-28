@@ -1,5 +1,5 @@
 ---
-title: "Delta 라이브러리 만들기 기록"
+title: Delta 라이브러리 만들기 기록
 subtitle: Virtual DOM과 Diffing Algorithm
 category: technology
 tags: ["MVU", "WPF"]
