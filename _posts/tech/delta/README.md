@@ -2,7 +2,7 @@
 title: Delta 라이브러리 만들기 기록
 subtitle: Virtual DOM과 Diffing Algorithm
 category: technology
-tags: ["MVU", "WPF"]
+tags: ["MVU", "WPF", "Delta"]
 date: '2024-11-28'
 ---
 안녕하세요 이광석입니다.
