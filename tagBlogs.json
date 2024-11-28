@@ -192,7 +192,8 @@
           "category": "technology",
           "tags": [
             "MVU",
-            "WPF"
+            "WPF",
+            "Delta"
           ],
           "date": "2024-11-28"
         }
@@ -516,7 +517,8 @@
           "category": "technology",
           "tags": [
             "MVU",
-            "WPF"
+            "WPF",
+            "Delta"
           ],
           "date": "2024-11-28"
         }
@@ -867,6 +869,26 @@
             "PacketSupport"
           ],
           "date": "2024-11-25"
+        }
+      }
+    ]
+  },
+  {
+    "tagname": "Delta",
+    "blogs": [
+      {
+        "name": "README.md",
+        "path": "_posts/tech/delta/README.md",
+        "metadata": {
+          "title": "Delta 라이브러리 만들기 기록",
+          "subtitle": "Virtual DOM과 Diffing Algorithm",
+          "category": "technology",
+          "tags": [
+            "MVU",
+            "WPF",
+            "Delta"
+          ],
+          "date": "2024-11-28"
         }
       }
     ]
