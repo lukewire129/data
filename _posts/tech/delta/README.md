@@ -5,6 +5,7 @@ category: technology
 tags: ["MVU", "WPF", "Delta"]
 date: '2024-11-28'
 ---
+# Delta 라이브러리 만들기 기록
 안녕하세요 이광석입니다.
 
 WPF만의 MVU 패턴을 위한 라이브러리를 만드는 과정을 기록으로 남기기 위해 작성하려고 합니다.
