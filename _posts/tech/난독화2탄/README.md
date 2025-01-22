@@ -3,7 +3,7 @@ title: 응용 프레임워크 난독화하기 2탄
 subtitle: 오픈 소스 난독화 프로그램을 다뤄보기 .NET CORE
 category: technology
 tags: ["ConfuserEx", "WPF"]
-date: '2023-05-06'
+date: '2024-05-06'
 ---
 # 응용 프레임워크 난독화하기 2탄
 ### 오픈 소스 난독화 프로그램을 다뤄보기 .NET CORE

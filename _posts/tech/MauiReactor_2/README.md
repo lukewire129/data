@@ -3,7 +3,7 @@ title: MauiReactor 간단하게 알아보기
 subtitle: MauiReactor의 진짜 찐 시작
 category: technology
 tags: ["MVU", "maui","MauiReactor", "크로스플랫폼"]
-date: '2023-05-12'
+date: '2024-05-12'
 ---
 # MauiReactor 간단하게 알아보기
 안녕하세요, 이광석입니다.

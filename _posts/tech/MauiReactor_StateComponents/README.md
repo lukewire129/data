@@ -3,7 +3,7 @@ title: MauiReactor의 Stateless과 Statefull
 subtitle: StaelessComponent와 StatefullComponent에 대해 알아보기
 category: technology
 tags: ["MVU", "maui","MauiReactor", "크로스플랫폼"]
-date: '2023-05-13'
+date: '2024-05-13'
 ---
 # MauiReactor의 Stateless과 Statefull
 안녕하세요, 이광석입니다.

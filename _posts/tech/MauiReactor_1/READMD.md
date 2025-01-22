@@ -3,7 +3,7 @@ title: MauiReactor 시작하기
 subtitle: MauiReactor의 시작하려는 이유
 category: technology
 tags: ["MVU", "maui","MauiReactor", "크로스플랫폼"]
-date: '2023-05-10'
+date: '2024-05-10'
 ---
 # MauiReactor 시작하기
 

@@ -3,7 +3,7 @@ title: MauiReactor의 LifeCycle
 subtitle: MauiReactor의 컴포넌트 상태주기에 대해 알아보기
 category: technology
 tags: ["MVU", "maui","MauiReactor", "크로스플랫폼"]
-date: '2023-05-15'
+date: '2024-05-15'
 ---
 # MauiReactor의 LifeCycle
 안녕하세요 이광석입니다.
