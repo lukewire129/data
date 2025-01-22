@@ -104,6 +104,20 @@
     },
     {
       "name": "README.md",
+      "path": "_posts/review/20250109dotnetconf/README.md",
+      "customTag": "blog-post",
+      "metadata": {
+        "title": "닷넷콘 2025 (.NET Conf 2025 x Seoul)",
+        "subtitle": null,
+        "category": "review",
+        "tags": [
+          ".NET Conf"
+        ],
+        "date": "2025-01-11"
+      }
+    },
+    {
+      "name": "README.md",
       "path": "_posts/tech/AvaloniaStyle/README.md",
       "customTag": "blog-post",
       "metadata": {
@@ -131,7 +145,7 @@
           "MauiReactor",
           "크로스플랫폼"
         ],
-        "date": "2023-05-10"
+        "date": "2024-05-10"
       }
     },
     {
@@ -148,7 +162,7 @@
           "MauiReactor",
           "크로스플랫폼"
         ],
-        "date": "2023-05-12"
+        "date": "2024-05-12"
       }
     },
     {
@@ -165,7 +179,7 @@
           "MauiReactor",
           "크로스플랫폼"
         ],
-        "date": "2023-05-15"
+        "date": "2024-05-15"
       }
     },
     {
@@ -182,7 +196,7 @@
           "MauiReactor",
           "크로스플랫폼"
         ],
-        "date": "2023-05-13"
+        "date": "2024-05-13"
       }
     },
     {
@@ -228,7 +242,7 @@
           "ConfuserEx",
           "WPF"
         ],
-        "date": "2023-05-05"
+        "date": "2024-05-05"
       }
     },
     {
@@ -243,7 +257,7 @@
           "ConfuserEx",
           "WPF"
         ],
-        "date": "2023-05-06"
+        "date": "2024-05-06"
       }
     }
   ]
