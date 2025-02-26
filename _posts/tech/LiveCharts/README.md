@@ -5,7 +5,8 @@ category: technology
 tags: ["LiveCharts", "LiveCharts2", ".NET Charts"]
 date: '2025-02-26'
 ---
-### LiveCharts vs LiveCharts2: .NET 차트 라이브러리 비교
+# LiveCharts vs LiveCharts2: .NET 차트 라이브러리 비교
+### LiveCharts와 LiveCharts2의 차이점과 선택 가이드
 
 .NET 개발을 하다 보면 다양한 데이터를 시각적으로 표현해야 할 때가 많습니다. 이럴 때 유용한 라이브러리가 바로 LiveCharts입니다. 하지만 최근에는 **LiveCharts2 (LiveChartsCore)**도 많이 사용되고 있습니다. 이번 글에서는 LiveCharts와 LiveCharts2의 차이점을 비교하고, 어떤 상황에서 어떤 라이브러리를 선택해야 할지 알아보겠습니다.
 
