@@ -132,6 +132,12 @@
       }
     },
     {
+      "name": "README.md",
+      "path": "_posts/tech/LiveCharts/README.md",
+      "customTag": "blog-post",
+      "metadata": {}
+    },
+    {
       "name": "READMD.md",
       "path": "_posts/tech/MauiReactor_1/READMD.md",
       "customTag": "blog-post",
