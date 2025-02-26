@@ -1,5 +1,5 @@
 ---
-title: LiveCharts vs LiveCharts2: .NET 차트 라이브러리 비교
+title: LiveCharts vs LiveCharts2 .NET 차트 라이브러리 비교
 subtitle: LiveCharts와 LiveCharts2의 차이점과 선택 가이드
 category: technology
 tags: ["LiveCharts", "LiveCharts2", ".NET Charts"]
