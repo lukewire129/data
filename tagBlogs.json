@@ -184,6 +184,23 @@
         }
       },
       {
+        "name": "Practice.md",
+        "path": "_posts/tech/LiveCharts/Practice.md",
+        "metadata": {
+          "title": "LiveCharts2 샘플 프로젝트 – 실무 적용 경험",
+          "subtitle": "LiveCharts2를 실무에 적용하며 얻은 인사이트",
+          "category": "technology",
+          "tags": [
+            "LiveCharts",
+            "LiveCharts2",
+            ".NET Charts",
+            "WPF",
+            "MVVM"
+          ],
+          "date": "2025-02-26"
+        }
+      },
+      {
         "name": "README.md",
         "path": "_posts/tech/delta/README.md",
         "metadata": {
@@ -719,6 +736,23 @@
     "tagname": "LiveCharts",
     "blogs": [
       {
+        "name": "Practice.md",
+        "path": "_posts/tech/LiveCharts/Practice.md",
+        "metadata": {
+          "title": "LiveCharts2 샘플 프로젝트 – 실무 적용 경험",
+          "subtitle": "LiveCharts2를 실무에 적용하며 얻은 인사이트",
+          "category": "technology",
+          "tags": [
+            "LiveCharts",
+            "LiveCharts2",
+            ".NET Charts",
+            "WPF",
+            "MVVM"
+          ],
+          "date": "2025-02-26"
+        }
+      },
+      {
         "name": "README.md",
         "path": "_posts/tech/LiveCharts/README.md",
         "metadata": {
@@ -738,6 +772,23 @@
   {
     "tagname": "LiveCharts2",
     "blogs": [
+      {
+        "name": "Practice.md",
+        "path": "_posts/tech/LiveCharts/Practice.md",
+        "metadata": {
+          "title": "LiveCharts2 샘플 프로젝트 – 실무 적용 경험",
+          "subtitle": "LiveCharts2를 실무에 적용하며 얻은 인사이트",
+          "category": "technology",
+          "tags": [
+            "LiveCharts",
+            "LiveCharts2",
+            ".NET Charts",
+            "WPF",
+            "MVVM"
+          ],
+          "date": "2025-02-26"
+        }
+      },
       {
         "name": "README.md",
         "path": "_posts/tech/LiveCharts/README.md",
@@ -759,6 +810,23 @@
     "tagname": ".NET Charts",
     "blogs": [
       {
+        "name": "Practice.md",
+        "path": "_posts/tech/LiveCharts/Practice.md",
+        "metadata": {
+          "title": "LiveCharts2 샘플 프로젝트 – 실무 적용 경험",
+          "subtitle": "LiveCharts2를 실무에 적용하며 얻은 인사이트",
+          "category": "technology",
+          "tags": [
+            "LiveCharts",
+            "LiveCharts2",
+            ".NET Charts",
+            "WPF",
+            "MVVM"
+          ],
+          "date": "2025-02-26"
+        }
+      },
+      {
         "name": "README.md",
         "path": "_posts/tech/LiveCharts/README.md",
         "metadata": {
@@ -769,6 +837,28 @@
             "LiveCharts",
             "LiveCharts2",
             ".NET Charts"
+          ],
+          "date": "2025-02-26"
+        }
+      }
+    ]
+  },
+  {
+    "tagname": "MVVM",
+    "blogs": [
+      {
+        "name": "Practice.md",
+        "path": "_posts/tech/LiveCharts/Practice.md",
+        "metadata": {
+          "title": "LiveCharts2 샘플 프로젝트 – 실무 적용 경험",
+          "subtitle": "LiveCharts2를 실무에 적용하며 얻은 인사이트",
+          "category": "technology",
+          "tags": [
+            "LiveCharts",
+            "LiveCharts2",
+            ".NET Charts",
+            "WPF",
+            "MVVM"
           ],
           "date": "2025-02-26"
         }
