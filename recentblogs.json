@@ -132,8 +132,8 @@
       }
     },
     {
-      "name": "Practice.md",
-      "path": "_posts/tech/LiveCharts/Practice.md",
+      "name": "README.md",
+      "path": "_posts/tech/LivceChart_Practice/README.md",
       "customTag": "blog-post",
       "metadata": {
         "title": "LiveCharts2 샘플 프로젝트 – 실무 적용 경험",
