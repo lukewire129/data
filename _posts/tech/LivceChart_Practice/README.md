@@ -3,7 +3,7 @@ title: LiveCharts2 샘플 프로젝트 – 실무 적용 경험
 subtitle: LiveCharts2를 실무에 적용하며 얻은 인사이트
 category: technology
 tags: ["LiveCharts", "LiveCharts2", ".NET Charts", "WPF", "MVVM"]
-date: '2025-02-26'
+date: '2025-03-01'
 ---
 
 # LiveCharts2 샘플 프로젝트 이야기
