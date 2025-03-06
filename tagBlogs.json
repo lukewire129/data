@@ -61,6 +61,22 @@
           ],
           "date": "2025-03-06"
         }
+      },
+      {
+        "name": "README.md",
+        "path": "_posts/tech/AvaloniaStyle완전정복_2/README.md",
+        "metadata": {
+          "title": "Avalonia Styles 실전 활용 (2편)",
+          "subtitle": "Avalonia UI의 Styles를 더 깊이 있게 활용하는 방법을 소개합니다. 다양한 Selector와 모듈화된 스타일 적용법을 다룹니다.",
+          "category": "technology",
+          "tags": [
+            "Avalonia",
+            "AXAML",
+            "Styles",
+            "Selector"
+          ],
+          "date": "2025-03-07"
+        }
       }
     ]
   },
@@ -761,6 +777,22 @@
           ],
           "date": "2025-03-06"
         }
+      },
+      {
+        "name": "README.md",
+        "path": "_posts/tech/AvaloniaStyle완전정복_2/README.md",
+        "metadata": {
+          "title": "Avalonia Styles 실전 활용 (2편)",
+          "subtitle": "Avalonia UI의 Styles를 더 깊이 있게 활용하는 방법을 소개합니다. 다양한 Selector와 모듈화된 스타일 적용법을 다룹니다.",
+          "category": "technology",
+          "tags": [
+            "Avalonia",
+            "AXAML",
+            "Styles",
+            "Selector"
+          ],
+          "date": "2025-03-07"
+        }
       }
     ]
   },
@@ -782,6 +814,22 @@
           ],
           "date": "2025-03-06"
         }
+      },
+      {
+        "name": "README.md",
+        "path": "_posts/tech/AvaloniaStyle완전정복_2/README.md",
+        "metadata": {
+          "title": "Avalonia Styles 실전 활용 (2편)",
+          "subtitle": "Avalonia UI의 Styles를 더 깊이 있게 활용하는 방법을 소개합니다. 다양한 Selector와 모듈화된 스타일 적용법을 다룹니다.",
+          "category": "technology",
+          "tags": [
+            "Avalonia",
+            "AXAML",
+            "Styles",
+            "Selector"
+          ],
+          "date": "2025-03-07"
+        }
       }
     ]
   },
@@ -802,6 +850,27 @@
             "ResourceDictionary"
           ],
           "date": "2025-03-06"
+        }
+      }
+    ]
+  },
+  {
+    "tagname": "Selector",
+    "blogs": [
+      {
+        "name": "README.md",
+        "path": "_posts/tech/AvaloniaStyle완전정복_2/README.md",
+        "metadata": {
+          "title": "Avalonia Styles 실전 활용 (2편)",
+          "subtitle": "Avalonia UI의 Styles를 더 깊이 있게 활용하는 방법을 소개합니다. 다양한 Selector와 모듈화된 스타일 적용법을 다룹니다.",
+          "category": "technology",
+          "tags": [
+            "Avalonia",
+            "AXAML",
+            "Styles",
+            "Selector"
+          ],
+          "date": "2025-03-07"
         }
       }
     ]
