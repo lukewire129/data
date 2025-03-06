@@ -133,6 +133,23 @@
     },
     {
       "name": "README.md",
+      "path": "_posts/tech/AvaloniaStyle완전정복/README.md",
+      "customTag": "blog-post",
+      "metadata": {
+        "title": "Avalonia Styles와 ResourceDictionary 완전 정복 (1편)",
+        "subtitle": "Avalonia UI에서 스타일을 적용하는 두 가지 핵심 개념, Styles와 ResourceDictionary의 차이점과 사용법을 깊이 있게 알아봅니다.",
+        "category": "technology",
+        "tags": [
+          "Avalonia",
+          "AXAML",
+          "Styles",
+          "ResourceDictionary"
+        ],
+        "date": "2025-03-06"
+      }
+    },
+    {
+      "name": "README.md",
       "path": "_posts/tech/LivceChart_Practice/README.md",
       "customTag": "blog-post",
       "metadata": {
