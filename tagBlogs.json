@@ -77,6 +77,24 @@
           ],
           "date": "2025-03-07"
         }
+      },
+      {
+        "name": "README.md",
+        "path": "_posts/tech/MVVM/README.md",
+        "metadata": {
+          "title": "MVU에 가까운 MVVM – 모델이 곧 뷰가 되는 설계",
+          "subtitle": "전통적인 MVVM을 벗어나, UI 로직을 단순화하는 새로운 접근 방식",
+          "category": "technology",
+          "tags": [
+            "MVVM",
+            "MVU",
+            "WPF",
+            "Avalonia",
+            "Uno Platform",
+            "UI Architecture"
+          ],
+          "date": "2025-03-11"
+        }
       }
     ]
   },
@@ -230,6 +248,24 @@
             "MVVM"
           ],
           "date": "2025-03-01"
+        }
+      },
+      {
+        "name": "README.md",
+        "path": "_posts/tech/MVVM/README.md",
+        "metadata": {
+          "title": "MVU에 가까운 MVVM – 모델이 곧 뷰가 되는 설계",
+          "subtitle": "전통적인 MVVM을 벗어나, UI 로직을 단순화하는 새로운 접근 방식",
+          "category": "technology",
+          "tags": [
+            "MVVM",
+            "MVU",
+            "WPF",
+            "Avalonia",
+            "Uno Platform",
+            "UI Architecture"
+          ],
+          "date": "2025-03-11"
         }
       },
       {
@@ -491,6 +527,24 @@
             "declarative"
           ],
           "date": "2024-07-26"
+        }
+      },
+      {
+        "name": "README.md",
+        "path": "_posts/tech/MVVM/README.md",
+        "metadata": {
+          "title": "MVU에 가까운 MVVM – 모델이 곧 뷰가 되는 설계",
+          "subtitle": "전통적인 MVVM을 벗어나, UI 로직을 단순화하는 새로운 접근 방식",
+          "category": "technology",
+          "tags": [
+            "MVVM",
+            "MVU",
+            "WPF",
+            "Avalonia",
+            "Uno Platform",
+            "UI Architecture"
+          ],
+          "date": "2025-03-11"
         }
       },
       {
@@ -1004,6 +1058,70 @@
             "MVVM"
           ],
           "date": "2025-03-01"
+        }
+      },
+      {
+        "name": "README.md",
+        "path": "_posts/tech/MVVM/README.md",
+        "metadata": {
+          "title": "MVU에 가까운 MVVM – 모델이 곧 뷰가 되는 설계",
+          "subtitle": "전통적인 MVVM을 벗어나, UI 로직을 단순화하는 새로운 접근 방식",
+          "category": "technology",
+          "tags": [
+            "MVVM",
+            "MVU",
+            "WPF",
+            "Avalonia",
+            "Uno Platform",
+            "UI Architecture"
+          ],
+          "date": "2025-03-11"
+        }
+      }
+    ]
+  },
+  {
+    "tagname": "Uno Platform",
+    "blogs": [
+      {
+        "name": "README.md",
+        "path": "_posts/tech/MVVM/README.md",
+        "metadata": {
+          "title": "MVU에 가까운 MVVM – 모델이 곧 뷰가 되는 설계",
+          "subtitle": "전통적인 MVVM을 벗어나, UI 로직을 단순화하는 새로운 접근 방식",
+          "category": "technology",
+          "tags": [
+            "MVVM",
+            "MVU",
+            "WPF",
+            "Avalonia",
+            "Uno Platform",
+            "UI Architecture"
+          ],
+          "date": "2025-03-11"
+        }
+      }
+    ]
+  },
+  {
+    "tagname": "UI Architecture",
+    "blogs": [
+      {
+        "name": "README.md",
+        "path": "_posts/tech/MVVM/README.md",
+        "metadata": {
+          "title": "MVU에 가까운 MVVM – 모델이 곧 뷰가 되는 설계",
+          "subtitle": "전통적인 MVVM을 벗어나, UI 로직을 단순화하는 새로운 접근 방식",
+          "category": "technology",
+          "tags": [
+            "MVVM",
+            "MVU",
+            "WPF",
+            "Avalonia",
+            "Uno Platform",
+            "UI Architecture"
+          ],
+          "date": "2025-03-11"
         }
       }
     ]

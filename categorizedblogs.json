@@ -195,6 +195,24 @@
         }
       },
       {
+        "name": "README.md",
+        "path": "_posts/tech/MVVM/README.md",
+        "metadata": {
+          "title": "MVU에 가까운 MVVM – 모델이 곧 뷰가 되는 설계",
+          "subtitle": "전통적인 MVVM을 벗어나, UI 로직을 단순화하는 새로운 접근 방식",
+          "category": "technology",
+          "tags": [
+            "MVVM",
+            "MVU",
+            "WPF",
+            "Avalonia",
+            "Uno Platform",
+            "UI Architecture"
+          ],
+          "date": "2025-03-11"
+        }
+      },
+      {
         "name": "READMD.md",
         "path": "_posts/tech/MauiReactor_1/READMD.md",
         "metadata": {
