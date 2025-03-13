@@ -6,7 +6,7 @@ tags: ["Avalonia", "AXAML", "ResourceDictionary"] date: '2025-03-13'
 ---
 # Avalonia ResourceDictionary 고급 활용법 (3편)
 
-2편에서는 `Styles`에서 `Selector`를 활용한 다양한 스타일링 기법을 배웠습니다. 이번 3편에서는 `ResourceDictionary`를 통해 리소스를 효율적으로 관리하고, 동적 스타일 적용 및 `MergedDictionaries`를 통한 모듈화된 스타일 관리 방식을 알아봅니다.
+[2편](https://lukewire129.github.io/blog/postdetail?category=tech&title=AvaloniaStyle%EC%99%84%EC%A0%84%EC%A0%95%EB%B3%B5_2&name=README.md)에서는 `Styles`에서 `Selector`를 활용한 다양한 스타일링 기법을 배웠습니다. 이번 3편에서는 `ResourceDictionary`를 통해 리소스를 효율적으로 관리하고, 동적 스타일 적용 및 `MergedDictionaries`를 통한 모듈화된 스타일 관리 방식을 알아봅니다.
 
 ### 1. ResourceDictionary란?
 
