@@ -1,8 +1,9 @@
 ---
 title: Avalonia ResourceDictionary 고급 활용법 (3편) 
-subtitle: Avalonia UI에서 ResourceDictionary를 활용한 동적 스타일 관리 및 MergedDictionaries의 활용법을 소개합니다
+subtitle: Avalonia UI에서 ResourceDictionary를 활용한 동적 스타일 관리 및 MergedDictionaries의 활용법을 소개합니다.
 category: technology 
-tags: ["Avalonia", "AXAML", "ResourceDictionary"] date: '2025-03-13'
+tags: ["Avalonia", "AXAML", "ResourceDictionary"] 
+date: '2025-03-13'
 ---
 # Avalonia ResourceDictionary 고급 활용법 (3편)
 
