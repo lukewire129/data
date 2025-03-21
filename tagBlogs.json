@@ -94,6 +94,22 @@
         }
       },
       {
+        "name": "REAMD.md",
+        "path": "_posts/tech/AvaloniaStyle완전정복_4/REAMD.md",
+        "metadata": {
+          "title": "Avalonia Styles와 ResourceDictionary 함께 사용하기 (4편)",
+          "subtitle": "Avalonia UI에서 ResourceDictionary와 Styles를 함께 사용하는 방법을 알아봅니다.",
+          "category": "technology",
+          "tags": [
+            "Avalonia",
+            "AXAML",
+            "ResourceDictionary",
+            "Styles"
+          ],
+          "date": "2025-03-21"
+        }
+      },
+      {
         "name": "README.md",
         "path": "_posts/tech/MVVM/README.md",
         "metadata": {
@@ -877,6 +893,22 @@
           ],
           "date": "2025-03-13"
         }
+      },
+      {
+        "name": "REAMD.md",
+        "path": "_posts/tech/AvaloniaStyle완전정복_4/REAMD.md",
+        "metadata": {
+          "title": "Avalonia Styles와 ResourceDictionary 함께 사용하기 (4편)",
+          "subtitle": "Avalonia UI에서 ResourceDictionary와 Styles를 함께 사용하는 방법을 알아봅니다.",
+          "category": "technology",
+          "tags": [
+            "Avalonia",
+            "AXAML",
+            "ResourceDictionary",
+            "Styles"
+          ],
+          "date": "2025-03-21"
+        }
       }
     ]
   },
@@ -914,6 +946,22 @@
           ],
           "date": "2025-03-07"
         }
+      },
+      {
+        "name": "REAMD.md",
+        "path": "_posts/tech/AvaloniaStyle완전정복_4/REAMD.md",
+        "metadata": {
+          "title": "Avalonia Styles와 ResourceDictionary 함께 사용하기 (4편)",
+          "subtitle": "Avalonia UI에서 ResourceDictionary와 Styles를 함께 사용하는 방법을 알아봅니다.",
+          "category": "technology",
+          "tags": [
+            "Avalonia",
+            "AXAML",
+            "ResourceDictionary",
+            "Styles"
+          ],
+          "date": "2025-03-21"
+        }
       }
     ]
   },
@@ -949,6 +997,22 @@
             "ResourceDictionary"
           ],
           "date": "2025-03-13"
+        }
+      },
+      {
+        "name": "REAMD.md",
+        "path": "_posts/tech/AvaloniaStyle완전정복_4/REAMD.md",
+        "metadata": {
+          "title": "Avalonia Styles와 ResourceDictionary 함께 사용하기 (4편)",
+          "subtitle": "Avalonia UI에서 ResourceDictionary와 Styles를 함께 사용하는 방법을 알아봅니다.",
+          "category": "technology",
+          "tags": [
+            "Avalonia",
+            "AXAML",
+            "ResourceDictionary",
+            "Styles"
+          ],
+          "date": "2025-03-21"
         }
       }
     ]
