@@ -34,6 +34,21 @@
       },
       {
         "name": "README.md",
+        "path": "_posts/review/20250120BMW/README.md",
+        "metadata": {
+          "title": "Blazor MAUI WPF 밋업 발표 후기 - 25년 1월 21일",
+          "subtitle": "아발로니아로 만든 githubpage 체험기",
+          "category": "review",
+          "tags": [
+            "Avalonia",
+            "아발로니아",
+            "Blog"
+          ],
+          "date": "2025-01-21"
+        }
+      },
+      {
+        "name": "README.md",
         "path": "_posts/tech/AvaloniaStyle/README.md",
         "metadata": {
           "title": "Avalonia UI AXAML 스타일링(깊은 디자인과 얕은 디자인의 이해)",
@@ -813,19 +828,41 @@
     ]
   },
   {
-    "tagname": ".NET Conf",
+    "tagname": "아발로니아",
     "blogs": [
       {
         "name": "README.md",
-        "path": "_posts/review/20250109dotnetconf/README.md",
+        "path": "_posts/review/20250120BMW/README.md",
         "metadata": {
-          "title": "닷넷콘 2025 (.NET Conf 2025 x Seoul)",
-          "subtitle": null,
+          "title": "Blazor MAUI WPF 밋업 발표 후기 - 25년 1월 21일",
+          "subtitle": "아발로니아로 만든 githubpage 체험기",
           "category": "review",
           "tags": [
-            ".NET Conf"
+            "Avalonia",
+            "아발로니아",
+            "Blog"
           ],
-          "date": "2025-01-11"
+          "date": "2025-01-21"
+        }
+      }
+    ]
+  },
+  {
+    "tagname": "Blog",
+    "blogs": [
+      {
+        "name": "README.md",
+        "path": "_posts/review/20250120BMW/README.md",
+        "metadata": {
+          "title": "Blazor MAUI WPF 밋업 발표 후기 - 25년 1월 21일",
+          "subtitle": "아발로니아로 만든 githubpage 체험기",
+          "category": "review",
+          "tags": [
+            "Avalonia",
+            "아발로니아",
+            "Blog"
+          ],
+          "date": "2025-01-21"
         }
       }
     ]
