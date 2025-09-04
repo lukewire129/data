@@ -322,6 +322,12 @@
       }
     },
     {
+      "name": "README.md",
+      "path": "_posts/tech/NET10Prev7SourceGenerator/README.md",
+      "customTag": "blog-post",
+      "metadata": {}
+    },
+    {
       "name": "READMD.md",
       "path": "_posts/tech/PacketSupoort/READMD.md",
       "customTag": "blog-post",
