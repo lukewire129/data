@@ -1,6 +1,6 @@
 ---
-title: .NET MAUI: XAML Source Generator로 달라진 개발 경험
-subtitle: .NET 10 Preview 7에서 도입된 새로운 XAML 빌드 파이프라인
+title: 닷넷 마우이 XAML Source Generator로 달라진 개발 경험
+subtitle: 닷넷 10 Preview 7에서 도입된 새로운 XAML 빌드 파이프라인
 category: technology
 tags: ["MAUI", "XAML", "SourceGenerator", "크로스플랫폼"]
 date: '2025-09-04'
